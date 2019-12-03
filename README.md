@@ -34,3 +34,8 @@ The GitHub Commands are the lines of text that you add to your code to prompt a 
     
     
     
+comments by jianfeng:
+* I suggest you copy & paste the whole thing in google docs to check for grammer mistakes
+* For your git explanation, a beginner wouldn't understand what you mean by pictures of code
+* For repository setup, i think you need to tell the reader how to make a repository in github
+* Other than just telling the reader what something is, I think you should tell them how to do it too. For example, rollback changes. 
