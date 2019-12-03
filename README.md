@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Emma Doherty>_
+_by Emma Doherty
 
 ---
 ## Git vs. GitHub
